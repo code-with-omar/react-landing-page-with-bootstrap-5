@@ -1,0 +1,35 @@
+.hero-left-wrapper{
+
+}
+.hero-left-title {
+    background: #FFEEDE;
+    color: #FB9431;
+    font-weight: bold;
+    padding: 7px 20px;
+    border-radius: 20px;
+}
+
+.hero-left-details {
+    font-size: 50px;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-top: 20px;
+    color: rgb(61, 63, 66);
+    padding-right: 128px;
+}
+
+.span {
+    color: rgb(251, 148, 49);
+}
+.hero-left-description{
+    margin: 25px 0;
+}
+.btn-contact{
+    border: 1px solid #fb1c15 !important;
+    background-color: transparent !important;
+    color: #fb1c15 !important;
+    font-weight: bold !important;
+    text-transform: capitalize;
+    margin-left: 100px;
+}
