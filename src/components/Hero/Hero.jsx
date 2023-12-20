@@ -2,6 +2,7 @@
 import { Col, Container, Row } from 'react-bootstrap';
 import './Hero.css'
 import HeroLeft from './HeroLeft/HeroLeft';
+import HeroRight from './HeroRight/HeroRight';
 const Hero = () => {
     const heroLeftAllDocuments = {
         title: 'Healthy & tasty food',
@@ -19,9 +20,9 @@ const Hero = () => {
                         </section>
                     </Col>
                     <Col md={6}>
-                        <div className='right-hero-section'>
-                            hello again
-                        </div>
+                       <section>
+                            <HeroRight></HeroRight>
+                       </section>
                     </Col>
                 </Row>
             </Container>
