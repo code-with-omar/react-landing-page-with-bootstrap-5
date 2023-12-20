@@ -8,4 +8,17 @@
     font-family: 'Raleway', sans-serif;
     font-family: 'Roboto', sans-serif;
     font-family: 'Rubik', sans-serif;
+    
+}
+body{
+    background: linear-gradient(29deg, #ffe3e3 0%, #ffffff 35%);
+}
+/* for button  */
+.btn-contact{
+    border: 1px solid #fb1c15 !important;
+    background-color: transparent !important;
+    color: #fb1c15 !important;
+    font-weight: bold !important;
+    text-transform: capitalize;
+    margin-left: 50px;
 }

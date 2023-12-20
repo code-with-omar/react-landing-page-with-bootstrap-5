@@ -25,11 +25,4 @@
 .hero-left-description{
     margin: 25px 0;
 }
-.btn-contact{
-    border: 1px solid #fb1c15 !important;
-    background-color: transparent !important;
-    color: #fb1c15 !important;
-    font-weight: bold !important;
-    text-transform: capitalize;
-    margin-left: 100px;
-}
+

@@ -1,0 +1,20 @@
+.fitness-goal-wrap{
+    margin-top: 50px;
+    text-align: justify;
+}
+.fitness-goal-details>h1{
+    font-size: 5px;
+    font-size: 30px;
+    margin-bottom: 1rem;
+}
+.fitness-goal-details>p{
+    font-size: 1rem;
+    margin: 32px 0;
+    font-weight: normal;
+}
+
+.fitness-goal-details{
+    color: rgb(61, 63, 66);
+    font-weight: bold;
+   
+}
