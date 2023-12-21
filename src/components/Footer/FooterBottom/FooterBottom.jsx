@@ -1,10 +1,11 @@
+
 import './FooterBotoom.css'
 
 const FooterBottom = () => {
     return (
-        <div>
-           <h1>FooterButtom</h1> 
-        </div>
+     <section className='copy-write-section'>
+        <p>Copyright © 2023, All Right Reserved <span>Omar Faruk</span> </p>
+     </section>
     );
 };
 

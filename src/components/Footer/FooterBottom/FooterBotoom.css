@@ -1,0 +1,14 @@
+.copy-write-section{
+    background: #202020;
+    padding: 25px 0;
+}
+.copy-write-section p{
+    margin: 0;
+    font-size: 14px;
+    color: #878787;
+    text-align: center;
+}
+.copy-write-section span:hover{
+    color: #ff5e14;
+    cursor: pointer;
+}
