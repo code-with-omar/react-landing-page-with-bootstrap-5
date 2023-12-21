@@ -1,0 +1,21 @@
+.footer-top-wrap{
+
+}
+.footer-top-icon{
+    color: #ff5e14;
+    font-size: 30px;
+    margin-top: 8px;
+}
+.footer-top-details> h4{
+    color: #ff5e14;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+.footer-top-details> p{
+    color: #757575;
+    font-size: 16px;
+}
+.hr{
+    margin-top: 3.5rem;
+}
